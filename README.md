@@ -2,52 +2,152 @@
 
 ## 👨‍💻 À propos de moi
 
-Salut ! Je suis un développeur passionné basé à Madagascar. J'aime explorer différents domaines de l'informatique, allant des applications desktop aux réseaux, en passant par le web et les bases de données. Voici un aperçu de ce que je fais :
+Bonjour ! Je suis un développeur passionné basé à Madagascar, curieux et toujours en quête de nouveaux défis techniques.
 
-- 🔧 **Langages** : Java, C#, Python, C++, PHP, SQL  
-- 🛠️ **Technos & Frameworks** : Spring Boot, Swing, WinForms, PyQt6, Tkinter, Flight PHP, React (ancien projet)  
-- 💾 **Bases de données** : PostgreSQL, Oracle SQL (utilisateur Scott), Access  
-- 🖥️ **Systèmes** : Manjaro Linux, Windows  
-- 🌐 **Réseaux** : Projets avec Cisco Packet Tracer (DHCP, DNS, routage, proxy HTTP), Samba, serveur DNS local  
-- 🎮 **Projets ludiques** : Jeux en C# (Puissance 5, Tennis), IA avec MiniMax (Fanorontelo)  
-- 🧠 **Méthodologie** : Architecture MVC, bonnes pratiques JDBC, DAO, séparation claire des responsabilités
+Je m'intéresse particulièrement au développement backend, aux bases de données, aux architectures logicielles et aux réseaux informatiques. J'aime concevoir des applications complètes, depuis la modélisation des données jusqu'à l'interface utilisateur.
+
+### 🚀 Compétences techniques
+
+#### Langages
+
+* Java
+* JavaScript
+* Python
+* C#
+* C++
+* PHP
+* SQL
+
+#### Frameworks & Technologies
+
+* Spring Boot
+* React
+* Node.js
+* Express.js
+* Swing
+* WinForms
+* PyQt6
+* Tkinter
+* Flight PHP
+
+#### Bases de données
+
+* PostgreSQL
+* SQLite
+* Oracle SQL
+* Microsoft Access
+
+#### Outils & Environnement
+
+* Git
+* GitHub
+* Linux (Manjaro)
+* Windows
+* Cisco Packet Tracer
+* VS Code
+* IntelliJ IDEA
+* CLion
+
+#### Concepts maîtrisés
+
+* Architecture MVC
+* DAO (Data Access Object)
+* API REST
+* Gestion des Promises et Async/Await
+* Modélisation de bases de données
+* Indexation et optimisation SQL
+* Routage réseau
+* DHCP, DNS, Proxy HTTP
+* Gestion de versions avec Git
 
 ---
 
-## 📁 Projets récents
+## 📁 Projets
 
-- 💡 **Simulation de marché** (Python + PyQt6)  
-  Gestion de loyers avec vue graphique des boxs du marché
+### 🎫 Application de gestion de tickets
 
-- 🔌 **Serveur proxy HTTP** (Java)  
-  Agit comme intermédiaire entre un navigateur et un serveur Apache
+**React + Node.js + Express + SQLite**
 
-- 🔥 **Jeu Fanorontelo avec IA** (Python + Tkinter)  
-  IA imbattable avec algorithme MiniMax et heuristique personnalisée
+* Gestion complète des tickets
+* API REST
+* Interface moderne en React
+* Calculs automatiques des coûts et durées
+* Architecture frontend/backend séparée
 
-- 🎮 **Jeu de Tennis en C# WinForms**  
-  Avec base de données PostgreSQL pour le suivi des scores et des joueurs
+### 🌐 Serveur Proxy HTTP
 
-- 🧱 **Structure réseau complète avec Cisco**  
-  Trois sous-réseaux, DHCP, DNS, routage, accès Samba, sécurité
+**Java**
+
+* Intermédiaire entre navigateur et serveur web
+* Gestion des requêtes HTTP
+* Compréhension approfondie du protocole HTTP
+
+### 💡 Simulation de marché
+
+**Python + PyQt6**
+
+* Gestion de loyers et d'emplacements
+* Interface graphique interactive
+* Gestion des données métier
+
+### ♟️ Fanorontelo avec IA
+
+**Python + Tkinter**
+
+* Intelligence artificielle basée sur MiniMax
+* Heuristique personnalisée
+* Interface graphique complète
+
+### 🎾 Jeu de Tennis
+
+**C# WinForms + PostgreSQL**
+
+* Gestion des joueurs
+* Sauvegarde des scores
+* Connexion à une base PostgreSQL
+
+### 🧱 Infrastructure réseau
+
+**Cisco Packet Tracer**
+
+* Plusieurs sous-réseaux
+* DHCP
+* DNS
+* Routage
+* Proxy HTTP
+* Partage Samba
+* Sécurisation du réseau
 
 ---
 
-## 🧪 En cours d'apprentissage
+## 📚 Actuellement en apprentissage
 
-- JavaScript (depuis les bases)
-- Visual Basic .NET (avec WinForms)
-- Qt pour C++ (avec CLion et CMake)
-- Génération de sites e-commerce sans AJAX (PHP + PDO)
+* Spring Boot avancé
+* PostgreSQL avancé
+* React avancé
+* Architecture Full Stack
+* Bonnes pratiques API REST
+* Qt pour C++
+* Visual Basic .NET
+
+---
+
+## 🎯 Objectifs
+
+* Devenir développeur Full Stack Java / React
+* Approfondir les architectures backend modernes
+* Concevoir des applications robustes et maintenables
+* Participer à des projets professionnels à grande échelle
 
 ---
 
 ## 📫 Me contacter
 
-Je suis toujours motivé pour apprendre, collaborer ou discuter de projets techniques.  
-📧 **Contact privé via GitHub ou autre canal à définir**
+* LinkedIn : (à ajouter)
+* GitHub : (à ajouter)
+
+Toujours ouvert aux échanges techniques, aux collaborations et aux opportunités d'apprentissage.
 
 ---
 
-> *“Apprendre, construire, comprendre : chaque projet est une nouvelle aventure.”*
-
+> *"Chaque projet est une occasion d'apprendre quelque chose de nouveau et de progresser en tant que développeur."*
