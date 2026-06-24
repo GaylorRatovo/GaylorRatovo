@@ -2,63 +2,59 @@
 
 ## 👨‍💻 À propos de moi
 
-Bonjour ! Je suis un développeur passionné basé à Madagascar, curieux et toujours en quête de nouveaux défis techniques.
+Bonjour ! Je suis **Gaylor Ratovonjanahary**, développeur passionné basé à Madagascar 🇲🇬.
 
 Je m'intéresse particulièrement au développement backend, aux bases de données, aux architectures logicielles et aux réseaux informatiques. J'aime concevoir des applications complètes, depuis la modélisation des données jusqu'à l'interface utilisateur.
 
-### 🚀 Compétences techniques
+### 🌐 Me retrouver
 
-#### Langages
+* GitHub : https://github.com/GaylorRatovo
+* LinkedIn : https://www.linkedin.com/in/gaylor-ratovonjanahary-8875073b1/
 
-* Java
-* JavaScript
-* Python
-* C#
-* C++
-* PHP
-* SQL
+---
 
-#### Frameworks & Technologies
+## 💻 Technologies
 
-* Spring Boot
-* React
-* Node.js
-* Express.js
-* Swing
-* WinForms
-* PyQt6
-* Tkinter
-* Flight PHP
+### Langages
 
-#### Bases de données
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
-* PostgreSQL
-* SQLite
-* Oracle SQL
-* Microsoft Access
+### Frameworks & Technologies
 
-#### Outils & Environnement
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
 
-* Git
-* GitHub
-* Linux (Manjaro)
-* Windows
-* Cisco Packet Tracer
-* VS Code
-* IntelliJ IDEA
-* CLion
+### Bases de données
 
-#### Concepts maîtrisés
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 
-* Architecture MVC
-* DAO (Data Access Object)
-* API REST
-* Gestion des Promises et Async/Await
-* Modélisation de bases de données
-* Indexation et optimisation SQL
-* Routage réseau
-* DHCP, DNS, Proxy HTTP
-* Gestion de versions avec Git
+---
+
+## 📊 GitHub Stats
+
+![Gaylor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaylorRatovo\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaylorRatovo\&layout=compact)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=GaylorRatovo)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=GaylorRatovo)
 
 ---
 
@@ -80,7 +76,6 @@ Je m'intéresse particulièrement au développement backend, aux bases de donné
 
 * Intermédiaire entre navigateur et serveur web
 * Gestion des requêtes HTTP
-* Compréhension approfondie du protocole HTTP
 
 ### 💡 Simulation de marché
 
@@ -88,7 +83,6 @@ Je m'intéresse particulièrement au développement backend, aux bases de donné
 
 * Gestion de loyers et d'emplacements
 * Interface graphique interactive
-* Gestion des données métier
 
 ### ♟️ Fanorontelo avec IA
 
@@ -96,7 +90,6 @@ Je m'intéresse particulièrement au développement backend, aux bases de donné
 
 * Intelligence artificielle basée sur MiniMax
 * Heuristique personnalisée
-* Interface graphique complète
 
 ### 🎾 Jeu de Tennis
 
@@ -104,19 +97,16 @@ Je m'intéresse particulièrement au développement backend, aux bases de donné
 
 * Gestion des joueurs
 * Sauvegarde des scores
-* Connexion à une base PostgreSQL
 
 ### 🧱 Infrastructure réseau
 
 **Cisco Packet Tracer**
 
-* Plusieurs sous-réseaux
 * DHCP
 * DNS
 * Routage
+* Samba
 * Proxy HTTP
-* Partage Samba
-* Sécurisation du réseau
 
 ---
 
@@ -136,17 +126,7 @@ Je m'intéresse particulièrement au développement backend, aux bases de donné
 
 * Devenir développeur Full Stack Java / React
 * Approfondir les architectures backend modernes
-* Concevoir des applications robustes et maintenables
-* Participer à des projets professionnels à grande échelle
-
----
-
-## 📫 Me contacter
-
-* LinkedIn : (à ajouter)
-* GitHub : (à ajouter)
-
-Toujours ouvert aux échanges techniques, aux collaborations et aux opportunités d'apprentissage.
+* Participer à des projets professionnels ambitieux
 
 ---
 
